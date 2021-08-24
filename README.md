@@ -3,4 +3,5 @@ This folder contains R scripts that were used to analyze single-cell RNA-sequenc
 
 # Overview of scripts
 '210817_1_Data_processing.R': This script is used to filter, normalize and annotate cells.
+
 '210824_2_Cell_proportions.R': This script calculates and visualizes differences in cell proportions. 

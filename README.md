@@ -11,3 +11,5 @@ This folder contains R scripts that were used to analyze single-cell RNA-sequenc
 '210824_4_Pathway_enrichment_analyses.R': This script performs pathway enrichment analyses based on KEGG and GO terms and visualizes the results in dotplots.
 
 '220525_5_Gene_enrichment_analyses.R': This script calculates the enrichment of a set of genes in the various monocyte clusters identified.
+
+'220525_6_Identifying_regulatory_transcription_factors.R': This script identifies the regulatory transcription factors based on a list of DE genes. 
